@@ -1,0 +1,24 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace calculator
+{
+    class email
+    {
+        public string login = "cavid123";
+        public string password = "cavid1993";
+
+
+        public string GetFullName()
+        {
+            return "LOGIN: cavid123  PASSWORD:cavid1993";
+        }
+
+
+        
+        }
+    }
+
